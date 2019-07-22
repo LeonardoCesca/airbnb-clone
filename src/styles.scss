@@ -12,3 +12,9 @@ $search-placeholder-color: $color-default;
 .hook-search-input {
     font-weight: bold;    
 }
+
+.hook-navbar-nav-item {
+    text-transform: none;
+    color: $color-default;
+    font-weight: 500; 
+}
